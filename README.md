@@ -5,12 +5,11 @@ Develop a Space simulator using OpenGL C++
 
 ## See main.cpp for code 
 
-LINE 89 - Display: Setup the light locations, object locations 
-
+Line 89 - Display: Setup the light locations, object locations 
 
 Line 306 - void process Keys: input controls and movement of the ship when a button is pressed 
 
-Line 375 and 389 - Key Up and Down: use switch case to see which key is being pressed. 
+Line 375 and 389 - Key Up and Down: use a switch case to see which key is being pressed. 
 
 Line 407 - main: main is used to call different functions for the simulation. 
 
