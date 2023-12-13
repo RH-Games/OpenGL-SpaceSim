@@ -3,6 +3,8 @@
 University Project part of Graphics 3D model 
 Develop a Space simulator using OpenGL C++
 
+*The models I created myself*
+
 ## See main.cpp for code 
 
 Line 89 - Display: Setup the light locations, object locations 
